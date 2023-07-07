@@ -1,0 +1,30 @@
+
+
+body{
+    background: #e2b3b3;
+    color: #500b0b;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',sans-serif;
+    padding: 10px 20px 15px 5px;
+}
+  
+#rodape img{
+    margin-right: 35px;
+    vertical-align: middle;
+    width: 94px;
+}
+
+
+h1 {
+    background: #500b0b;height: 40px;width: 150px;
+    color:red;
+    font-size:16px;
+
+}
+
+h2{
+    background: #be98b1;height: 40px;width: 90px;
+    color:red;
+    font-size:16px;
+}
+
+
